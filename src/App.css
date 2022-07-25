@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.favButton{
+  height:"30px";
+  background-color: "white";
+  border-radius: "10px";
+  cursor: pointer;
+}
+
